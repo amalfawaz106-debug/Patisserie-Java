@@ -24,9 +24,3 @@ checkout
 
 2. Run:
    java Supermarket
-
-## 📌 Notes
-This is a beginner Java project to practice HashMaps and user input.
-
-## 👤 Author
-Your Name
