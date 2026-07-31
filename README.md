@@ -24,3 +24,4 @@ checkout
 
 2. Run:
    java Supermarket
+3.initial sync from replit
